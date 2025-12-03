@@ -13,7 +13,7 @@ Multi-platform LDAP/Active Directory connection testing tool.
 .\powershell\Test-LDAPConnection.ps1
 ```
 
-### Linux/macOS
+### Linux
 ```bash
 ./bash/test-ldap-connection.sh
 ```
